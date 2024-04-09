@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-This is a personal setup website of Unica Cai, a second year undergraduate from [School of Public Management](https://spm.ecnu.edu.cn/),[East China Normal University](https://www.ecnu.edu.cn/). My major is human resource management and now focusing on organizational behavior. I'm also studying applied psychology as my minor.
+This is a personal setup website of Unica Cai, a second year undergraduate from [School of Public Management](https://spm.ecnu.edu.cn/), [East China Normal University](https://www.ecnu.edu.cn/). My major is human resource management and now focusing on organizational behavior. I'm also studying applied psychology as my minor.
 
 You can contact me with:
+
 [Email]carla2003@qq.com
 
 [QQ]2252328915
+
 
 What is this website meant to do?
 ======
